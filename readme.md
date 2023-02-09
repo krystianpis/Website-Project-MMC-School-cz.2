@@ -1,4 +1,4 @@
-#  Website Project (MMC School course part 2) - by Krystian Pis/MMC School
+# Website Project (MMC School course part 2) - by Krystian Pis/MMC School
 
 ## Purpose of this project
 
@@ -6,7 +6,7 @@ This project is lesson from MMC School course part 2 website project.
 
 ## Future plans
 
-I will add completed version of the site. Work in progress...
+~~I will add completed version of the site. Work in progress...~~ **DONE!**
 
 ## License and using
 
